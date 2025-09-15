@@ -12,7 +12,7 @@ This repository contains my solutions to various [Frontend Mentor](https://www.f
 
 Here are some of the challenges I’ve completed:
 
-- **Social Links Profile Main** → [Code](https://github.com/Cesargarciajr/frontend-mentor-challenges)
+- **Social Links Profile Main** → [Code](https://github.com/Cesargarciajr/frontend-mentor-challenges/tree/main/social-links-profile-main)
 
 *(Replace `#` with your actual links once deployed to GitHub Pages, Vercel, or Netlify.)*
 
